@@ -1,0 +1,1 @@
+from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemovebutton_1 = KeyboardButton('/cm_start')button_2 = KeyboardButton('/cancel')keyboard_client = ReplyKeyboardMarkup(resize_keyboard=True)keyboard_client.add(button_1).add(button_2)
