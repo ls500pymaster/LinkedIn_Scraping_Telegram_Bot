@@ -6,7 +6,7 @@
 - Use telegram bot to get results from DB after parsing
 - Use telegram bot to launch and stop parsing (in progress)
 
-##Setup
+## Setup
 
 - Go to config and add your token_bot
 - Go to 'login_password.py' to add your login and password
